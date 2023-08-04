@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ruialvespinto
 - 👀 I’m interested in software development and programming.
-- 🌱 I’m currently learning new programming languages and technologies.
-- 💞️ I’m looking to collaborate on interesting open source projects.
 - 📫 How to reach me ...
 
 <!---
