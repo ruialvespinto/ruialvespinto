@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruialvespinto
-- 👀 I’m interested in software development and programming.
+- 👀 Software development and programming.
 - 📫 How to reach me ...
 
 <!---
