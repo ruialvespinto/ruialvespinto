@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ruialvespinto
 - 👀 Software development and programming.
-- 📫 How to reach me ...
 
 <!---
 ruialvespinto/ruialvespinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
